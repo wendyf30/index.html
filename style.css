@@ -3,6 +3,7 @@ html {
   width: 100%;
 }
 h1{
+  background-color: purple;
   font-weight: bold;
   color: #f782ed;
 }
